@@ -1,0 +1,1 @@
+# aicp_ferrari_local_manifest
